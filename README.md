@@ -1,9 +1,7 @@
 dplyrmongodb
 ============
 
-This is an R (www.r-project.org) package providing a grammar of data manipulation on MongoDB (www.mongodb.org) motivated by the plyr & dplyr packages.
-
-dplyr (https://github.com/hadley/dplyr) is the next iteration of plyr (https://github.com/hadley/plyr), focused on tools for working with data frames no matter where it's stored, whether in a data frame, a data table or database. The package dplyrmongodb provides a very similar functionality and syntax in R for data stored in MongoDB.
+This is an R (www.r-project.org) package providing a grammar of data manipulation on MongoDB (www.mongodb.org) motivated by the plyr & dplyr packages. dplyr (https://github.com/hadley/dplyr) is the next iteration of plyr (https://github.com/hadley/plyr), focused on tools for working with data frames no matter where it's stored, whether in a data frame, a data table or database. The package **dplyrmongodb** provides a very similar functionality and syntax in R for data stored in MongoDB.
 
 
 There is no stable CRAN version available so far.
